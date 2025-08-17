@@ -1,9 +1,11 @@
-[
-  {
-    "id": 1,
-    "name": "Carlos Silva",
-    "time": "14:00",
-    "dataNascimento": "1990-05-12",
-    "date": "2025-08-17"
-  }
-]
+{
+  "consultas": [
+    {
+      "id": 1,
+      "name": "Carlos Silva",
+      "time": "14:00",
+      "dataNascimento": "1990-05-12",
+      "date": "2025-08-17"
+    }
+  ]
+}
